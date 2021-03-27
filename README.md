@@ -4,7 +4,7 @@
 
 ##### Program Features
 ----------------------
-📌 Coding with Python 3.9+
+📌 Coding with PHP +7.00
 
 📌 Target the IP.
 
